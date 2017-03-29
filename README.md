@@ -8,7 +8,7 @@ This is a simple game in which the player shoots down some objects.
 * Development environment: Microsoft Visual Studio 10 Professional, Windows 8.1
 
 
-#  This game satisfies the requirement as follows 
+# This game satisfies the requirement as follows 
 
 1.  Place the cannon (triangle) to the middle of the bottom part of the screen (window).
 2.  Make sure the cannon smoothly turns with the help of the cursor keys (to the left, to the right) in a range of -90 to 90 degrees from the basic direction (the basic direction is upwards).
