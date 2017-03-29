@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="test">
+</Property><Property Name="Solution File" Value="C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\atchm_15648\H13Test\code\test.sln">
+</Property><Property Name="Date" Value="Sunday, September 25, 2016">
+</Property><Property Name="Time" Value="12:08 PM">
+</Property></Properties><Event ErrorLevel="0" Project="test" Source="test.vcproj" Description="Converting project file 'C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\atchm_15648\H13Test\code\test.vcproj'.">
+</Event><Event ErrorLevel="1" Project="test" Source="test.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="test" Source="test.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="test" Source="test.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="test" Source="test.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="test" Source="test.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="test" Source="test.vcproj" Description="Done converting to new project file 'C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\atchm_15648\H13Test\code\test.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="test" Source="test.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="test.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="test.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,122 @@
+﻿Build started 9/28/2016 2:41:41 PM.
+     1>Project "C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\atchm_15648\H13Test\code\test.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\test.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt C_Application.cpp
+         C_Application.cpp
+     1>C_Application.cpp(12): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>C_Application.cpp(43): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>C_Application.cpp(72): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(73): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(78): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(79): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(84): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(85): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(97): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(98): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(103): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(104): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(109): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(110): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(119): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(119): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(119): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(119): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(126): warning C4018: '<' : signed/unsigned mismatch
+     1>C_Application.cpp(155): warning C4018: '<' : signed/unsigned mismatch
+     1>C_Application.cpp(156): warning C4018: '<' : signed/unsigned mismatch
+     1>C_Application.cpp(166): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(166): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(166): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(167): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(167): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(167): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(180): warning C4018: '<' : signed/unsigned mismatch
+     1>C_Application.cpp(182): warning C4018: '<' : signed/unsigned mismatch
+     1>C_Application.cpp(195): warning C4018: '<' : signed/unsigned mismatch
+     1>C_Application.cpp(204): warning C4018: '<' : signed/unsigned mismatch
+     1>C_Application.cpp(219): warning C4018: '<' : signed/unsigned mismatch
+     1>C_Application.cpp(221): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(222): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(223): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(224): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(228): warning C4018: '<' : signed/unsigned mismatch
+     1>C_Application.cpp(230): warning C4018: '<' : signed/unsigned mismatch
+     1>C_Application.cpp(233): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(234): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(235): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(236): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(266): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(266): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(266): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(266): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(267): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(267): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(267): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(267): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(268): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(268): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(268): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(268): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(271): warning C4018: '<' : signed/unsigned mismatch
+     1>C_Application.cpp(272): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(272): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(272): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(272): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(285): warning C4018: '<' : signed/unsigned mismatch
+     1>C_Application.cpp(288): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(288): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(288): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(288): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(289): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(289): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(289): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(289): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(290): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(290): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(290): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(290): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(291): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(291): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(291): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(291): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(298): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>C_Application.cpp(305): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(306): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(307): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(308): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(311): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(316): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(321): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>C_Application.cpp(362): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>C_Application.cpp(372): warning C4018: '<' : signed/unsigned mismatch
+     1>C_Application.cpp(385): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>C_Application.cpp(385): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>C_Application.cpp(385): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>C_Application.cpp(385): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>C_Application.cpp(396): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(397): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>C_Application.cpp(412): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>C_Application.cpp(412): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>C_Application.cpp(412): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>C_Application.cpp(412): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\atchm_15648\H13Test\code\Release\test.exe" /INCREMENTAL:NO /NOLOGO winmm.lib user32.lib gdi32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\atchm_15648\H13Test\code\Release\test.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\atchm_15648\H13Test\code\Release\test.lib" /MACHINE:X86 Release\C_Application.obj
+         Release\graphics.obj
+         Release\main.obj
+         Release\time.obj
+         Generating code
+         Finished generating code
+         test.vcxproj -> C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\atchm_15648\H13Test\code\Release\test.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\atchm_15648\H13Test\code\Release\test.exe;#1" /manifest Release\test.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\test.unsuccessfulbuild".
+         Touching "Release\test.lastbuildstate".
+     1>Done Building Project "C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\atchm_15648\H13Test\code\test.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.42

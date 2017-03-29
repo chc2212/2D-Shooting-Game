@@ -1,0 +1,131 @@
+﻿Build started 3/29/2017 1:16:29 PM.
+     1>Project "C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\최종제출(비밀번호는 password임)\H13Test_Steve\code\test.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\test.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt C_Application.cpp graphics.cpp main.cpp time.cpp
+         time.cpp
+         main.cpp
+         graphics.cpp
+         C_Application.cpp
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(12): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(43): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(72): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(73): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(78): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(79): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(84): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(85): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(97): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(98): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(103): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(104): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(109): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(110): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(119): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(119): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(119): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(119): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(126): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(155): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(156): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(166): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(166): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(166): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(167): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(167): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(167): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(180): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(182): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(195): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(204): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(219): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(221): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(222): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(223): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(224): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(228): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(230): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(233): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(234): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(235): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(236): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(266): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(266): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(266): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(266): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(267): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(267): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(267): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(267): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(268): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(268): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(268): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(268): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(271): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(272): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(272): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(272): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(272): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(285): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(288): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(288): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(288): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(288): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(289): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(289): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(289): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(289): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(290): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(290): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(290): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(290): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(291): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(291): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(291): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(291): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(298): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\time.inl(112) : see declaration of 'localtime'
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(305): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(306): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(307): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(308): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(311): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(316): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(321): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(362): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(372): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(385): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(385): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(385): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(385): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(396): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(397): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(412): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(412): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(412): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\steve cho\dropbox\spring2016\job\assignments\hanger13_2k\최종제출(비밀번호는 password임)\h13test_steve\code\c_application.cpp(412): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\test.exe.embed.manifest.res" Debug\test_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\최종제출(비밀번호는 password임)\H13Test_Steve\code\Debug\test.exe" /INCREMENTAL /NOLOGO winmm.lib user32.lib gdi32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\최종제출(비밀번호는 password임)\H13Test_Steve\code\Debug\test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\최종제출(비밀번호는 password임)\H13Test_Steve\code\Debug\test.lib" /MACHINE:X86 Debug\test.exe.embed.manifest.res
+         Debug\C_Application.obj
+         Debug\graphics.obj
+         Debug\main.obj
+         Debug\time.obj
+         LINK : C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\최종제출(비밀번호는 password임)\H13Test_Steve\code\Debug\test.exe not found or not built by the last incremental link; performing full link
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\test.exe.embed.manifest" /manifest Debug\test.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         test.vcxproj -> C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\최종제출(비밀번호는 password임)\H13Test_Steve\code\Debug\test.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\test.unsuccessfulbuild".
+         Touching "Debug\test.lastbuildstate".
+     1>Done Building Project "C:\Users\Steve Cho\Dropbox\Spring2016\job\Assignments\Hanger13_2K\최종제출(비밀번호는 password임)\H13Test_Steve\code\test.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.07
